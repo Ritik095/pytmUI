@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+     <item android:id="@+id/paytm_first"
+         android:title="Paytm First"/>
+     <item android:id="@+id/my_order"
+         android:title="My Order"/>
+     <item android:id="@+id/my_passbook"
+         android:title="My Passbook"/>
+     <item android:id="@+id/payment_reminder"
+         android:title="Payment Reminder"/>
+     <item android:id="@+id/favourit_stori"
+         android:title="My Favourite Stories"/>
+     <item android:id="@+id/loyality"
+         android:title="My Loyality Card"/>
+     <item android:id="@+id/choose_language"
+         android:title="Choose Language/"/>
+</menu>
